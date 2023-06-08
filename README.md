@@ -3,6 +3,6 @@ Basic Budget tracker App created using .NET 6 and SyncFusion components library.
 
 To run this app go to the directory which the file is in and run command: 
 ```
-dotnet run
+C:\Users\viro1\Documents\Projects\ExpenseViewer dotnet run
 ```
 In your browser run the corresponding localhost url found within the commandline to acess the application.
